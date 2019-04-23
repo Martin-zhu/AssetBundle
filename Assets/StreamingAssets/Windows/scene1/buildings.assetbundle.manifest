@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3480619501
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cd2cb3340691cc03fd033cbc483463f2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4d90e579baa648a406b7df4d756b75b6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/Scene1/Buildings/Building2.prefab
+- Assets/Res/Scene1/Buildings/Building1.prefab
+- Assets/Res/Scene1/Buildings/Folder/Building4.prefab
+Dependencies:
+- E:/AeestBundle/002/ABLesson/Assets/StreamingAssets/Windows/scene3.assetbundle

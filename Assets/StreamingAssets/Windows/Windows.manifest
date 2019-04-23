@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1739403096
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: scene1/buildings.assetbundle
+      Dependencies:
+        Dependency_0: scene3.assetbundle
+    Info_1:
+      Name: scene1.u3d
+      Dependencies: {}
+    Info_2:
+      Name: scene2/cars.assetbundle
+      Dependencies: {}
+    Info_3:
+      Name: scene3.assetbundle
+      Dependencies: {}
+    Info_4:
+      Name: scene3/pic.assetbundle
+      Dependencies: {}
